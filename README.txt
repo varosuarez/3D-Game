@@ -19,3 +19,5 @@ git commit -m "comment"
 5. " uploading to repository(on the internet)"
 
 git push 
+
+hello!
