@@ -106,10 +106,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 677, y: 492}
-  m_MaxSize: {x: 18006, y: 14042}
+  m_MinSize: {x: 683, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 741
+  controlID: 8454
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,10 +130,10 @@ MonoBehaviour:
     y: 0
     width: 1259
     height: 731
-  m_MinSize: {x: 402, y: 492}
+  m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 14006, y: 14042}
   vertical: 1
-  controlID: 742
+  controlID: 8638
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -154,10 +154,10 @@ MonoBehaviour:
     y: 0
     width: 1259
     height: 441
-  m_MinSize: {x: 402, y: 221}
-  m_MaxSize: {x: 8002, y: 4021}
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 684
+  controlID: 8557
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,7 +233,7 @@ MonoBehaviour:
   m_MinSize: {x: 336, y: 271}
   m_MaxSize: {x: 14006, y: 10021}
   vertical: 0
-  controlID: 743
+  controlID: 8639
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -414,14 +414,14 @@ MonoBehaviour:
     width: 1007
     height: 420
   m_SceneLighting: 1
-  lastFramingTime: 514.0535834517074
+  lastFramingTime: 10789.080719730231
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 420.48444, y: -13.047928, z: 355.38644}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 420.48444, y: -13.047928, z: 355.38644}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -444,17 +444,18 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: 0.18612434, y: 0.5996684, z: -0.14599553, w: 0.7644873}
     speed: 2
-    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Value: {x: 0.18612434, y: 0.5996684, z: -0.14599553, w: 0.7644873}
   m_Size:
-    m_Target: 10
+    m_Target: 406.8417
     speed: 2
-    m_Value: 10
+    m_Value: 406.8417
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
+  m_ShowGlobalGrid: 1
   m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
@@ -515,9 +516,9 @@ MonoBehaviour:
     height: 420
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 62fbffff
-    m_LastClickedID: -1182
-    m_ExpandedIDs: 6cfbffff00000000
+    m_SelectedIDs: d8a70000
+    m_LastClickedID: 42968
+    m_ExpandedIDs: ee7cf4ff58abf4ffeaabf4ffd4d0f4ff2ce7f6ff2ee7f6ff30e7f6ff32e7f6ff34e7f6ff20f8ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -636,8 +637,7 @@ MonoBehaviour:
     height: 269
   m_SearchFilter:
     m_NameFilter: 
-    m_ClassNames:
-    - Prefab
+    m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
     m_VersionControlStates: []
@@ -646,19 +646,20 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders: []
+    m_Folders:
+    - Assets/Decrepit Dungeon LITE/EXAMPLE
   m_ViewMode: 1
-  m_StartGridSize: 16
+  m_StartGridSize: 75
   m_LastFolders:
-  - Assets/Standard Assets
+  - Assets/Decrepit Dungeon LITE/EXAMPLE
   m_LastFoldersGridSize: 75
   m_LastProjectPath: D:\Developing\SE_Game\3D-Game\SE-Game
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 04ca9a3b
-    m_LastClickedID: 1000000004
-    m_ExpandedIDs: 32260000842b000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 8}
+    m_SelectedIDs: 164e0000
+    m_LastClickedID: 19990
+    m_ExpandedIDs: 00000000022a0000242a0000742b0000482c00006e2c0000aa4e000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -686,7 +687,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 32260000842b000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000022a0000242a0000742b0000482c00006e2c0000aa4e000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -739,7 +740,7 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
-    m_GridSize: 16
+    m_GridSize: 75
   m_DirectoriesAreaWidth: 224
 --- !u!114 &21
 MonoBehaviour:
