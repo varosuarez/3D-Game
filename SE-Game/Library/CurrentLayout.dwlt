@@ -13,8 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
-    y: 43
+    x: 8
+    y: 51
     width: 1366
     height: 685
   m_ShowMode: 4
@@ -109,7 +109,11 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 10
+=======
+  controlID: 122
+>>>>>>> 9228a9601b1f3831c7f82ce3a0dc94b4c05eed58
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +137,11 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 14006, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 11
+=======
+  controlID: 123
+>>>>>>> 9228a9601b1f3831c7f82ce3a0dc94b4c05eed58
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +165,11 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 12
+=======
+  controlID: 54
+>>>>>>> 9228a9601b1f3831c7f82ce3a0dc94b4c05eed58
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,7 +245,11 @@ MonoBehaviour:
   m_MinSize: {x: 336, y: 271}
   m_MaxSize: {x: 14006, y: 10021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 79
+=======
+  controlID: 124
+>>>>>>> 9228a9601b1f3831c7f82ce3a0dc94b4c05eed58
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -409,19 +425,34 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 0
     y: 92
     width: 865
     height: 343
   m_SceneLighting: 1
   lastFramingTime: 1924.2634069468083
+=======
+    x: 8
+    y: 100
+    width: 871
+    height: 343
+  m_SceneLighting: 1
+  lastFramingTime: 189.91788334091135
+>>>>>>> 9228a9601b1f3831c7f82ce3a0dc94b4c05eed58
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -49.547924, y: 3.1352901, z: -7.325036}
     speed: 2
     m_Value: {x: -49.547924, y: 3.1352901, z: -7.325036}
+=======
+    m_Target: {x: 188.76384, y: 104.78757, z: 248.90253}
+    speed: 2
+    m_Value: {x: 188.76384, y: 104.78757, z: 248.90253}
+>>>>>>> 9228a9601b1f3831c7f82ce3a0dc94b4c05eed58
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -444,6 +475,7 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: 0.0067831078, y: 0.9694555, z: -0.026985373, w: 0.24368392}
     speed: 2
     m_Value: {x: 0.0067831078, y: 0.9694555, z: -0.026985373, w: 0.24368392}
@@ -451,6 +483,15 @@ MonoBehaviour:
     m_Target: 24.041216
     speed: 2
     m_Value: 24.041216
+=======
+    m_Target: {x: -0.17379305, y: -0.3931504, z: 0.07594214, w: -0.8997008}
+    speed: 2
+    m_Value: {x: -0.17379305, y: -0.3931504, z: 0.07594214, w: -0.8997008}
+  m_Size:
+    m_Target: 209.95877
+    speed: 2
+    m_Value: 209.95877
+>>>>>>> 9228a9601b1f3831c7f82ce3a0dc94b4c05eed58
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -510,6 +551,7 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 869
     y: 92
     width: 218
@@ -519,25 +561,36 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: a6fbffff00000000
+=======
+    x: 883
+    y: 100
+    width: 212
+    height: 343
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 7021ffff
+    m_LastClickedID: -56976
+    m_ExpandedIDs: 7221ffff042affffa22fffff00000000
+>>>>>>> 9228a9601b1f3831c7f82ce3a0dc94b4c05eed58
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Terrain
+      m_OriginalName: Terrain
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 19874
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 9}
     m_SearchString: 
   m_ExpandedScenes:
-  - Dungeon1
+  - Test_Scene01
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -589,8 +642,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 456
+    x: 8
+    y: 464
     width: 461
     height: 250
   m_ViewPositions:
@@ -633,14 +686,13 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 465
-    y: 456
+    x: 473
+    y: 464
     width: 622
     height: 250
   m_SearchFilter:
     m_NameFilter: 
-    m_ClassNames:
-    - Prefab
+    m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
     m_VersionControlStates: []
@@ -649,19 +701,27 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders: []
+    m_Folders:
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Decrepit Dungeon LITE
+  - Assets
   m_LastFoldersGridSize: 75
-  m_LastProjectPath: C:\Users\varos_000\Desktop\Cluj\SE\project\3D-Game\SE-Game
+  m_LastProjectPath: D:\Developing\SE_Game\3D-Game\SE-Game
   m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 04ca9a3b
     m_LastClickedID: 1000000004
     m_ExpandedIDs: 00000000b42700008a280000d82c0000ba30000052310000ee31000000ca9a3bffffff7f
+=======
+    scrollPos: {x: 0, y: 43}
+    m_SelectedIDs: c2490000
+    m_LastClickedID: 18882
+    m_ExpandedIDs: 00000000c2490000024a00006e4b0000364c0000624c0000904c000000ca9a3bffffff7f
+>>>>>>> 9228a9601b1f3831c7f82ce3a0dc94b4c05eed58
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -689,7 +749,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000b42700008a280000d82c0000ba30000052310000ee310000
+=======
+    m_ExpandedIDs: 00000000c2490000024a00006e4b0000364c0000624c0000904c0000
+>>>>>>> 9228a9601b1f3831c7f82ce3a0dc94b4c05eed58
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -741,8 +805,13 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
+<<<<<<< HEAD
     m_ScrollPosition: {x: 0, y: 1114}
     m_GridSize: 64
+=======
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 16
+>>>>>>> 9228a9601b1f3831c7f82ce3a0dc94b4c05eed58
   m_DirectoriesAreaWidth: 224
 --- !u!114 &21
 MonoBehaviour:
@@ -794,8 +863,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1091
-    y: 92
+    x: 1099
+    y: 100
     width: 275
     height: 614
   m_ScrollPosition: {x: 0, y: 0}
